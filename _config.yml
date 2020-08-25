@@ -87,23 +87,23 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=N7czZBAAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : z.zhu (AT) essex.ac.uk
+  researchgate     : "https://www.researchgate.net/profile/Zuyuan_Zhu"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
-  facebook         :
+  flickr           : "https://www.flickr.com/photos/148906079@N08/"
+  facebook         : "zuyuan.zhu"
   foursquare       :
   github           : "ZuyuanZhu"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "joe.robot"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-1047-9521"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCZc1PIsavPPoGIlgri028oA"
   wikipedia        :
 
 
