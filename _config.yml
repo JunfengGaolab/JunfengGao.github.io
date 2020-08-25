@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-UK"
+locale                   : "en-GB"
 title                    : "Zuyuan Zhu"
 title_separator          : "-"
 name                     : &name "Zuyuan Zhu"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=N7czZBAAAAAJ&hl=en"
-  email            : z.zhu (AT) essex.ac.uk
+  email            : z.zhu@essex.ac.uk
   researchgate     : "https://www.researchgate.net/profile/Zuyuan_Zhu"
   uri              :
   bitbucket        :
