@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /files/Zuyuan%20Zhu%20CV.pdf
 author_profile: true
 redirect_from:
   - /resume
