@@ -1,5 +1,5 @@
 ---
-title: "Presentation: Robot Performing Peg-in-Hole Operations by Learning from Human Demonstration"
+title: "Conference Presentation: Robot Performing Peg-in-Hole Operations by Learning from Human Demonstration"
 collection: talks
 type: "Presentation"
 permalink: /talks/21-09-2018-presentation-1
