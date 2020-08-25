@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=N7czZBAAAAAJ&hl=en"
   email            : z.zhu (AT) essex.ac.uk
-  researchgate     : "Zuyuan_Zhu"
+  researchgate     : "https://www.researchgate.net/profile/Zuyuan_Zhu"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "0000-0003-1047-9521"
+  orcid            : "https://orcid.org/0000-0003-1047-9521"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "Zc1PIsavPPoGIlgri028oA"
+  youtube          : #"Zc1PIsavPPoGIlgri028oA"
   wikipedia        :
 
 
