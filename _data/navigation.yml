@@ -12,11 +12,11 @@ main:
   - title: "Photography"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  #- title: "Blog Posts"
+    #url: /year-archive/
     
   - title: "CV"
     url: /files/ZuyuanZhuCV.pdf
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+    #url: /markdown/
