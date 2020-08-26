@@ -2,9 +2,9 @@
 title: "Graduate Laboratory Assistant"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2018-GLA
+permalink: /teaching/GLA
 venue: "University of Essex"
-date: Spring 2019, Spring 2020
+date: 2017-2020
 location: "Colcheter, UK"
 ---
 
