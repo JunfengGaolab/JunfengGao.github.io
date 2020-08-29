@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/GLA
 venue: "University of Essex"
-date: 2020
+date: 2020-08-29
 location: "Colcheter, UK"
 ---
 
