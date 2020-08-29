@@ -7,7 +7,6 @@ author_profile: true
 
 
 * **Zhu, Z.** and Hu, H. (2018). Robot learning from demonstration in robotic assembly: A survey. <var>Robotics</var>, 7(2):17.
----
     * Learning from demonstration (LfD) has been used to help robots to implement manipulation tasks autonomously, in particular, to learn manipulation behaviours from observing the motion executed by human demonstrators. This paper reviews recent research and development in the field of LfD. The main focus is placed on how to demonstrate the example behaviours to the robot in assembly operations, and how to extract the manipulation features for robot learning and generating imitative behaviours. Diverse metrics are analysed to evaluate the performance of robot imitation learning. Specifically, the application of LfD in robotic assembly is a focal point in this paper. [Download paper here](http://zuyuanzhu.github.io/files/Zhu2018-Survey.pdf)
 
 * **Zhu, Z.**, Hu, H. and Gu, D., 2018, September. Robot Performing Peg-in-Hole Operations by Learning from Human Demonstration. In <var>2018 10th Computer Science and Electronic Engineering Conference (CEEC)</var> (pp. 30-35). IEEE.
