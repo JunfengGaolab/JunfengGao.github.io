@@ -8,7 +8,7 @@ author_profile: true
 Graduate Laboratory Assistant:
 ======
 
-Assisting undergraduate students in the laboratory, undertaking marking of assignments and related administrative work
+Assisting undergraduate students in the laboratory, undertaking marking of assignments and related administrative work.
 
 * CE315: Mobile Robotics  (Spring 2019, Spring 2020)
 * CE243: C Programming and Embedded Systems  (Autumn 2018, Autumn 2019)
