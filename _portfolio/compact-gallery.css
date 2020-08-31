@@ -55,7 +55,7 @@ p{
 body{
 background-repeat: no-repeat;
 background-size: cover;
-background-color: #ddd;
+background-color: #fff;  /* original #ddd*/
 padding-bottom: 10px;
 
 }
