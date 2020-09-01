@@ -1696,17 +1696,17 @@ var _getLoopedId = function(index) {
 
 $.magnificPopup.registerModule('gallery', {
 
-	// options: {
-	// 	enabled: false,
-	// 	arrowMarkup: '<button title="%title%" type="button" class="mfp-arrow mfp-arrow-%dir%"></button>',
-	// 	preload: [0,2],
-	// 	navigateByImgClick: true,
-	// 	arrows: true,
+	options: {
+		enabled: false,
+		arrowMarkup: '<button title="%title%" type="button" class="mfp-arrow mfp-arrow-%dir%"></button>',
+		preload: [0,2],
+		navigateByImgClick: true,
+		arrows: true,
 
-	// 	tPrev: 'Previous (Left arrow key)',
-	// 	tNext: 'Next (Right arrow key)',
-	// 	tCounter: '%curr% of %total%'
-	// },
+		tPrev: 'Previous (Left arrow key)',
+		tNext: 'Next (Right arrow key)',
+		tCounter: '%curr% of %total%'
+	},
 
 	proto: {
 		initGallery: function() {
