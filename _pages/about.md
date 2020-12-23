@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Zuyuan Zhu"
-excerpt: "About me"
+title: "About me"
+excerpt: "Home"
 author_profile: true
 redirect_from: 
   - /about/
@@ -21,6 +21,6 @@ My goal is to design intelligent algorithms for robots that can help and assist 
 
 Recent News
 ======
-*01 Feb 2021 - I will be joining the <a href="https://lcas.lincoln.ac.uk/wp/" target="_blank" rel="noopener noreferrer">Lincoln Centre for Autonomous Systems Research (L-CAS)</a> at the <a href="https://www.lincoln.ac.uk/home/liat/" target="_blank" rel="noopener noreferrer">Lincoln Institute for Agri-Food Technology</a>, <a href="https://www.lincoln.ac.uk/home/" target="_blank" rel="noopener noreferrer">University of Lincoln</a>.
+* 01 Feb 2021 - I will be joining the <a href="https://lcas.lincoln.ac.uk/wp/" target="_blank" rel="noopener noreferrer">Lincoln Centre for Autonomous Systems Research (L-CAS)</a> at the <a href="https://www.lincoln.ac.uk/home/liat/" target="_blank" rel="noopener noreferrer">Lincoln Institute for Agri-Food Technology</a>, <a href="https://www.lincoln.ac.uk/home/" target="_blank" rel="noopener noreferrer">University of Lincoln</a>.
 * 22 Dec 2020 - The degree of Doctor of Philosophy in Computer Science has now been conferred upon me!  
 * 23 Sep 2020 - I will be defending my doctoral thesis on "Robot Learning Assembly Tasks from Human Demonstrations". 
