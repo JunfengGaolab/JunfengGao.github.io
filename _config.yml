@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Zuyuan Zhu"
+title                    : "Home" # title on the navigator
 title_separator          : "-"
 name                     : &name "Zuyuan Zhu"
 description              : &description "personal description"
