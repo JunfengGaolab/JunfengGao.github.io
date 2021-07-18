@@ -81,30 +81,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Zuyuan Zhu"
+  name             : "Dr. Junfeng Gao"
   avatar           : "ZHUZU52009.jpg"
   bio              : "PhD in Computer Science"
-  location         : "Colchester, UK"
+  location         : "Lincoln, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=N7czZBAAAAAJ&hl=en"
-  email            : z.zhu@essex.ac.uk
-  researchgate     : "https://www.researchgate.net/profile/Zuyuan_Zhu"
+  googlescholar    : "https://scholar.google.com/citations?user=FBndY0cAAAAJ&hl=en"
+  email            : jugao@lincoln.ac.uk
+  researchgate     : "https://www.researchgate.net/profile/Junfeng-Gao-2"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : "photos/148906079@N08/"
-  facebook         : "zuyuan.zhu"
+  flickr           : #"photos/148906079@N08/"
+  facebook         : #"zuyuan.zhu"
   foursquare       :
-  github           : "ZuyuanZhu"
+  github           : #"ZuyuanZhu"
   google_plus      :
   keybase          :
-  instagram        : "zuyuan.zhu"
+  instagram        : #"zuyuan.zhu"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0003-1047-9521"
+  orcid            : #"https://orcid.org/0000-0003-1047-9521"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
