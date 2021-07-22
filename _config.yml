@@ -212,14 +212,14 @@ defaults:
       layout: single
       author_profile: false
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: false
-      share: true
-      comments: true
+  # - scope:
+  #     path: ""
+  #     type: teaching
+  #   values:
+  #     layout: single
+  #     author_profile: false
+  #     share: true
+  #     comments: true
   # _publications
   - scope:
       path: ""
