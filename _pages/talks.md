@@ -2,10 +2,8 @@
 layout: archive
 title: "Talks and presentations"
 permalink: /talks/
-author_profile: true
+author_profile: false
 ---
-
-* under construction!!
 
 
 * Junfeng Gao, David Nuyttens, Peter Lootens, Jan G. Pieters; Weed and maize classification in early growth stages based on near-infrared snapshot hyperspectral imagery.European Agricultural Engineering Conference, 2018, Wageningen, Netherlands.

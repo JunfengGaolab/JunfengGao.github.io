@@ -2,7 +2,7 @@
 layout: archive
 title: "Teaching"
 permalink: /teaching/
-author_profile: true
+author_profile: false
 ---
 
 Assisting undergraduate students in the laboratory, undertaking marking of assignments and related administrative work
