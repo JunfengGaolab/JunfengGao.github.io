@@ -83,13 +83,14 @@ analytics:
 author:
   name             : "Dr. Junfeng Gao"
   avatar           : "junfeng.jpg"
-  bio              : "PhD in Computer Science"
+  bio              : "PhD in Computer Vision"
   location         : "Lincoln, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=FBndY0cAAAAJ&hl=en"
   email            : jugao@lincoln.ac.uk
   researchgate     : "https://www.researchgate.net/profile/Junfeng-Gao-2"
+  Wechat           : 13454498708
   uri              :
   bitbucket        :
   codepen          :
@@ -103,14 +104,14 @@ author:
   instagram        : #"zuyuan.zhu"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/junfeng-gao-140148a9/
   orcid            : #"https://orcid.org/0000-0003-1047-9521"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : https://twitter.com/JerevonGao
   vine             :
   weibo            :
   xing             :
