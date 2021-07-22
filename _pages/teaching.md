@@ -4,8 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: false
 ---
-
-Assisting undergraduate students in the laboratory, undertaking marking of assignments and related administrative work
+**Graduate course**
 
 *  Advanced Machine learning  (Spring 2021)
 *  Frontiers in Robotic Research  (Spring 2021)
