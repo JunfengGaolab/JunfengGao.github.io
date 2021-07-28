@@ -9,14 +9,14 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Photography"
+  - title: "Team"
     url: /portfolio/
         
   #- title: "Blog Posts"
     #url: /year-archive/
     
-  - title: "CV"
-    url: /files/ZuyuanZhuCV.pdf
+  # - title: "CV"
+  #   url: /files/ZuyuanZhuCV.pdf
     
   #- title: "Guide"
     #url: /markdown/
