@@ -16,7 +16,7 @@ His research lies at the interaction of **robotics**, **computer vision**, and *
 
 Opportunity 
 
-We welcome highly motivated students to join our lab! Please check the  <a href="https://agriforwards-cdt.blogs.lincoln.ac.uk/" target="_blank" rel="noopener noreferrer"> EPSRC Agrifowards CDT programme </a>(Lincoln, Cambridge and East Anglia) and contact me for the fully funded PhD opportunity.
+* We welcome highly motivated students to join our lab! Please check the  <a href="https://agriforwards-cdt.blogs.lincoln.ac.uk/" target="_blank" rel="noopener noreferrer"> EPSRC AgriFoRwArdS CDT programme </a>(Lincoln, Cambridge and East Anglia) and contact me for the fully funded PhD opportunity.
 
 Joint PhD students and visiting scholars are also welcomed! 
 
