@@ -14,15 +14,15 @@ His research mainly focuses on the development of computational models using com
 
 His research lies at the interaction of **robotics**, **computer vision**, and **machine learning** for Agri-food applications.
 
-Opportunity
+Opportunity 
 
-We welocme highly motivated students to join our lab! Please check the  <a href="https://agriforwards-cdt.blogs.lincoln.ac.uk/" target="_blank" rel="noopener noreferrer"> Agrifowards CDT programme (Lincoln, Cambridge and East Anglia) </a> funded by EPSRC and contact me for the fully funded PhD opportunity.
+We welcome highly motivated students to join our lab! Please check the  <a href="https://agriforwards-cdt.blogs.lincoln.ac.uk/" target="_blank" rel="noopener noreferrer"> EPSRC Agrifowards CDT programme </a>(Lincoln, Cambridge and East Anglia) and contact me for the fully funded PhD opportunity.
 
 Joint PhD students and visiting scholars are also welcomed! 
 
 Recent News
 ======
 
-* TAROS 2021 goes virtually and the registration is free! 
+* TAROS 2021 goes virtually and the registration fee is free now for everybody! 
 * The book chapter on computer vision and less complex image analysis for monitoring potato traits is coming to be published soon by Springer 
 * Agricultural roboics special issue for Current Robotics Reports 
