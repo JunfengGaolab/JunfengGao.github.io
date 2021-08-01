@@ -20,8 +20,7 @@ His research lies at the interaction of **robotics**, **computer vision**, and *
 
 * Joint PhD students and visiting scholars are also welcomed! 
 
-Recent News
-======
+## Recent News
 
 * TAROS 2021 conference goes virtually and the registration fee is free now for everybody! 
 * The book chapter on computer vision and less complex image analysis for monitoring potato traits is coming to be published soon by Springer 
