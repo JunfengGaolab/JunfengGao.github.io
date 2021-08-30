@@ -22,6 +22,6 @@ His research lies at the interaction of **robotics**, **computer vision**, and *
 
 ## Recent News
 
+* The book chapter on computer vision and less complex image analysis for monitoring potato traits is published by Springer. PLease check <a href="https://link.springer.com/protocol/10.1007/978-1-0716-1609-3_13" target="_blank" rel="noopener noreferrer"> this link </a>.
 * TAROS 2021 conference goes virtually and the registration fee is free now for everybody! 
-* The book chapter on computer vision and less complex image analysis for monitoring potato traits is coming to be published soon by Springer 
 * Agricultural roboics special issue for Current Robotics Reports 
