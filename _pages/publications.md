@@ -26,6 +26,10 @@ author_profile: false
 * **Junfeng Gao**, Xiaoli Li, Fengle Zhu, Yong He. Application of hyperspectral imaging technology to discriminate different geographical origins of Jatropha curcas L. seedsComputers and Electronics in Agriculture, 2013,99, 186-193.
 
 
+* **Book chapter** 
+
+* **Gao J.**, Westergaard J.C., Alexandersson E. (2021) Computer Vision and Less Complex Image Analyses to Monitor Potato Traits in Fields. In: Dobnik D., Gruden K., Ramšak Ž., Coll A. (eds) Solanum tuberosum. Methods in Molecular Biology, vol 2354. Humana, New York, NY. https://doi.org/10.1007/978-1-0716-1609-3_13
+
 
 
 
