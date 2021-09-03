@@ -22,6 +22,7 @@ His research lies at the interaction of **robotics**, **computer vision**, and *
 
 ## Recent News
 
+* Calling for paper: the spcial issue on <a href="https://www.frontiersin.org/research-topics/26005/robotics-for-crop-care-and-breeding" target="_blank" rel="noopener noreferrer"> robotics for crop care and breeding </a> is online in the frontiers in plant science journal.
 * The book chapter on computer vision and less complex image analysis for monitoring potato traits is published by Springer. PLease check <a href="https://link.springer.com/protocol/10.1007/978-1-0716-1609-3_13" target="_blank" rel="noopener noreferrer"> this link </a>.
 * TAROS 2021 conference goes virtually and the registration fee is free now for everybody! 
 * Agricultural roboics special issue for Current Robotics Reports 
