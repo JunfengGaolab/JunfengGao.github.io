@@ -16,9 +16,13 @@ His research lies at the interaction of **robotics**, **computer vision**, and *
 
 ## Project 
 
-* <a href="https://www.ceresagritech.org/projects/agriculture-5-0-unleashing-ai/" target="_blank" rel="noopener noreferrer"> AI Unleashed </a> funded by Ceres.
+* <a href="https://www.ceresagritech.org/projects/agriculture-5-0-unleashing-ai/" target="_blank" rel="noopener noreferrer"> AI Unleashed </a> awarded £242152 by Ceres in 2021.
 
-* <a href="https://www.ceresagritech.org/projects/autonomous-black-grass-detection/" target="_blank" rel="noopener noreferrer"> Autonomous Blackgrass Detection </a> funded by Ceres.
+* <a href="https://www.ceresagritech.org/projects/autonomous-black-grass-detection/" target="_blank" rel="noopener noreferrer"> Autonomous Blackgrass Detection </a> awarded £214975 by Ceres in 2020.
+
+* EPSRC CDT studentship — awarded £96540 by EPSRC & BBRO in 2021
+
+* EPSRC CDT studentship — awarded £96540 by EPSRC & DBT in 2021
 
 ## Opportunity 
 
@@ -27,6 +31,10 @@ His research lies at the interaction of **robotics**, **computer vision**, and *
 * Joint PhD students and visiting scholars are also welcomed! 
 
 ## Recent News
+
+* <a href="https://link.springer.com/book/10.1007%2F978-3-030-89177-0" target="_blank" rel="noopener noreferrer"> Towards Autonomous Robotics Systems book </a> editored by Charles Fox, Junfeng Gao, Amir Ghalamzan Esfahani, Mini Saaj, Marc Hanheide, Simon Parsons is now published online by Springer.
+
+* <a href="https://github.com/JunfengGaolab/CropRowDetection" target="_blank" rel="noopener noreferrer"> GaoLab Github </a> is online. Please get access to our research dataset and submission for ICRA 2022!
 
 * <a href="https://github.com/JunfengGaolab/CropRowDetection" target="_blank" rel="noopener noreferrer"> GaoLab Github </a> is online. Please get access to our research dataset and submission for ICRA 2022!
 * Calling for paper: the spcial issue on <a href="https://www.frontiersin.org/research-topics/26005/robotics-for-crop-care-and-breeding" target="_blank" rel="noopener noreferrer"> robotics for crop care and breeding </a> is online in the frontiers in plant science journal.

@@ -27,7 +27,7 @@ author_profile: false
 
 * **Book**
 
-Charles Fox, **Junfeng Gao**, Amir Ghalamzan Esfahani, Mini Saaj, Marc Hanheide, Simon Parsons. (2021) Towards Autonomous Robotics Systems, Springer, https://link.springer.com/book/10.1007/978-3-030-89177-0
+* Charles Fox, **Junfeng Gao**, Amir Ghalamzan Esfahani, Mini Saaj, Marc Hanheide, Simon Parsons. (2021) Towards Autonomous Robotics Systems, Springer, https://link.springer.com/book/10.1007/978-3-030-89177-0
 
 * **Book chapter** 
 
