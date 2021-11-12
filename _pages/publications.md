@@ -25,6 +25,9 @@ author_profile: false
 
 * **Junfeng Gao**, Xiaoli Li, Fengle Zhu, Yong He. Application of hyperspectral imaging technology to discriminate different geographical origins of Jatropha curcas L. seedsComputers and Electronics in Agriculture, 2013,99, 186-193.
 
+* **Book**
+
+Charles Fox, **Junfeng Gao**, Amir Ghalamzan Esfahani, Mini Saaj, Marc Hanheide, Simon Parsons. (2021) Towards Autonomous Robotics Systems, Springer, https://link.springer.com/book/10.1007/978-3-030-89177-0
 
 * **Book chapter** 
 
