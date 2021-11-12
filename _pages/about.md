@@ -32,11 +32,11 @@ His research lies at the interaction of **robotics**, **computer vision**, and *
 
 ## Recent News
 
-* <a href="https://link.springer.com/book/10.1007%2F978-3-030-89177-0" target="_blank" rel="noopener noreferrer"> Towards Autonomous Robotics Systems book </a> editored by Charles Fox, Junfeng Gao, Amir Ghalamzan Esfahani, Mini Saaj, Marc Hanheide, Simon Parsons is now published online by Springer.
+* <a href="https://link.springer.com/book/10.1007%2F978-3-030-89177-0" target="_blank" rel="noopener noreferrer"> Towards Autonomous Robotics Systems book </a> editored by Charles Fox, **Junfeng Gao**, Amir Ghalamzan Esfahani, Mini Saaj, Marc Hanheide, Simon Parsons is now published online by Springer.
+
 
 * <a href="https://github.com/JunfengGaolab/CropRowDetection" target="_blank" rel="noopener noreferrer"> GaoLab Github </a> is online. Please get access to our research dataset and submission for ICRA 2022!
 
-* <a href="https://github.com/JunfengGaolab/CropRowDetection" target="_blank" rel="noopener noreferrer"> GaoLab Github </a> is online. Please get access to our research dataset and submission for ICRA 2022!
 * Calling for paper: the spcial issue on <a href="https://www.frontiersin.org/research-topics/26005/robotics-for-crop-care-and-breeding" target="_blank" rel="noopener noreferrer"> robotics for crop care and breeding </a> is online in the frontiers in plant science journal.
 * The book chapter on computer vision and less complex image analysis for monitoring potato traits is published by Springer. Please check <a href="https://link.springer.com/protocol/10.1007/978-1-0716-1609-3_13" target="_blank" rel="noopener noreferrer"> this link </a>.
 * TAROS 2021 conference goes virtually and the registration fee is free now for everybody! 
