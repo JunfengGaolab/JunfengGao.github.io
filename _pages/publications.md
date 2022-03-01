@@ -10,6 +10,7 @@ author_profile: false
 
 * **Seleted Publications** 
 
+* Chao Qi, **Junfeng Gao**, Simon Pearson, Helen Harman, Kunjie Chen, Lei Shu, Tea Chrysanthemum Detection under Unstructured Environments Using the TC-YOLO Model, Expert Systems with Applications, 2022, 193, 116473.
 
 * **Junfeng Gao**, Jesper Cairo Westergaard, Ea Høegh Riis Sundmark, Merethe Bagge, Erland Liljeroth, Erik Alexandersson; Automatic late blight lesion recognition and severity quantification based on field imagery of diverse potato genotypes by deep learning, Knowledge-based Systems, 2021, 214, 106723.
 

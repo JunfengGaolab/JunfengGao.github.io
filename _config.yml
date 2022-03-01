@@ -11,9 +11,9 @@ title                    : "Home" # title on the navigator
 title_separator          : "-"
 name                     : &name "Junfeng Gao"
 description              : &description "personal description"
-url                      : https://junfenggaolab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "JunfengGaoLab.github.io"
+repository               : "gai.github.io"
 teaser                   :  "teaser.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -59,7 +59,7 @@ yandex_site_verification :
 twitter:
   username               : &twitter
 facebook:
-  username               : JunfengGaoLab
+  username               : gai
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
